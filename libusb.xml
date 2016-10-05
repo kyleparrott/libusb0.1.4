@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
+<interface uri="https://raw.githubusercontent.com/kyleparrott/libusb0.1.4/master/libusb.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+    <name>libusb</name>
+    <summary>libusb0.1.4</summary>
+    <group arch="MacOSX-*">
+        <implementation id="sha1=0c73833cc969b9ddce750e1f6f2e3b86a01bbe10" version="0.0">
+            <archive href="https://raw.githubusercontent.com/kyleparrott/libusb0.1.4/master/libusb-0.1.4.dylib.zip" size="6588"/>
+        </implementation>
+    </group>
+</interface>
+<!-- Base64 Signature
+iQIcBAABCgAGBQJX9V3LAAoJEJzS+Pb4kyScMwEP+wXmEHII1TBTwvNa87G9jr+VeXR6hs1nRMnP
+AaAR7QYspCBuAsjKTVZ7TZx4J5Q0qJQU4rT52gYxxJr1ySpbQy6J/lkO/1wKpj/Xf6isjGGFocJG
+An8bwiVPrvqxL381+g8/5ouZRjRvXxLNF9RXaGriW9k/KS77bDAyDfvCKMowziiInp4pQk85mZMm
+Mmy0Chy4kOuheQ3LkEkAXBCkSJWdWdC01HgHZRSwBvaby0B/7JNQa5qvMGdJUQYdirzuNjcY3tz8
+OwS6Ttj+5F0edIaWfG2qcW/T0jE0kiFzgqD65p6LUOVr7I+Tv2AS5/94FyDNAQoVTC4h7Ks7Wpx2
+Ho66ye6OSl3yKRyPIgwbbEhZuJLOWafSJYbncb3eOnbsChuurOcbbER9ebmogvJFR6wmaJ09NCl/
+QFTYRoXB6tUPoQh8YjMgk/AOaRhipedDR7DbheTP0DLz3n2mrSzRnVr7BUF0fCOuC/zDaU+nH739
+YSD5rF+jPOkhktrmztCE5hK5k6QzlBcS1Rs03BVZ7+SJJp4NQTlXKXlSC49Zg6iQnhrusA1rNkS2
+hSeZB9weK9JKEzkf0kocN9h1hSetIRfGHGW3qsyZk7vHcD93pCofyB+eztIEYojvP7Ly3B/csqRN
+jbs/9YgJMIeUqdWztFCCZ5OFV7AqVDZuBAocknoR
+
+-->
